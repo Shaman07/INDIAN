@@ -80,7 +80,7 @@ function setup() {
 
 function draw() {
   
-  background(245);
+  background(235);
   //displaying score
   text("Score: "+ score/*+ score+ score+ score+ score+ score+ score+ score+ score+ score+ score+ score+ score+ score+ score+ score+ score+ score*/, 10,50);
   
